@@ -1,0 +1,2 @@
+node v12.19.0, python v2.7.18
+or node v14.17.3, python v3.10.1
